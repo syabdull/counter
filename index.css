@@ -1,3 +1,16 @@
-body {
-  background-color: green;
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  letter-spacing: 4px;
+}
+.display-container {
+  width: 300px;
+  border: 2px solid;
+  height: 40px;
+  margin: 90px auto;
 }
